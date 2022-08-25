@@ -1,0 +1,48 @@
+#Comandos docker
+docker attach --> Acceder al interior del contenedor y trabajar desde ahi.
+docker build --> Desde las instrucciones en un Dockerfile puedo crear una imagen.
+docker commit --> Cree una imagen a partir de un contenedor.
+docker cp --> Copia archivos o directorios del contenedor al host.
+docker create --> Crea un nuevo contenedor.
+docker diff --> Muestra los cambios realizados en el sistema de archivos del contenedor.
+docker event --> Muestra los eventos del contenedor en tiempo real.
+docker exec --> Ejecuta una instrucción dentro del contenedor que se está ejecutando sin tener que adjuntarla.
+docker export --> Exporta un contenedor a un archivo .tar.
+docker history --> Muestra el historial de comandos que se ejecutaron dentro del contenedor.
+docker images --> Enumera las imágenes disponibles en el host.
+docker import --> Importe una imagen .tar al host.
+docker info --> Muestra información sobre el host.
+docker inspect --> Muestre el json con todas las configuraciones del contenedor.
+docker kill --> Da Poweroff en el contenedor.
+docker load --> Cargue la imagen desde un archivo .tar.
+docker login --> Se registra o inicia sesión en un servidor de registro.
+docker logout --> Cierra la sesión de un servidor de registro.
+docker logs --> Muestra los registros de un contenedor.
+docker port --> Abre un puerto de host y contenedor.
+docker network --> Gestión de red Docker.
+docker node --> Gestión de nodos Docker Swarm.
+docker pause --> Pausa el contenedor.
+docker port --> Enumera los puertos asignados de un contenedor.
+docker ps --> Enumera todos los contenedores.
+docker pull --> Extrae una imagen de un servidor de registro.
+docker push --> Empuja una imagen desde un servidor de registro.
+docker rename --> Cambia el nombre de un contenedor existente.
+docker restart --> Reinicia un contenedor que se está ejecutando o detenido.
+docker rm --> Elimina uno o más contenedores.
+docker rmi --> Elimina una o más imágenes.
+docker run --> Ejecute un comando en un nuevo contenedor.
+docker save --> Guarde la imagen en un archivo .tar.
+docker search --> Busque una imagen en Docker Hub.
+docker service --> Gestión de servicios Docker.
+docker start --> Inicia un contenedor que está detenido.
+docker stats --> Muestra información sobre el uso de la CPU, la memoria y la red.
+docker stop --> Para un contenedor que se está ejecutando.
+docker unpause --> Inicia un contenedor que está en pausa.
+docker update --> Actualiza la configuración de uno o más contenedores.
+docker version --> Muestra las versiones API, Cliente y Servidor del host.
+docker tag --> Etiqueta una imagen para el repositorio.
+docker top --> Muestra los procesos que se ejecutan en un contenedor.
+docker volume --> Gestión de volúmenes en Docker.
+docker wait --> Espera a que un contenedor reanude la ejecución para iniciar ese contenedor.
+
+
